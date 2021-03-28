@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Victor Marszycki
+- 👀 I’m interested in programming and gaming
+- 🌱 I’m currently learning Python
